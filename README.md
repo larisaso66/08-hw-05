@@ -34,7 +34,6 @@
 
 ```
 sudo rsync -av -e ssh --bwlimit=1000 --progress /home/user1/large_file user1@192.168.2.218:/tmp/backup/
-
 ```
 
 `Результат выполнения команды`
